@@ -1,10 +1,11 @@
 ---
-title: Photo Upscalar
-emoji: 🏃
+title: Photo Upscaler
+emoji: 🏙️
 colorFrom: indigo
-colorTo: purple
+colorTo: gray
 sdk: static
-pinned: false
+pinned: true
+short_description: Ai Image Upscaler
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
