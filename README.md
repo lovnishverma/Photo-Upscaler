@@ -8,4 +8,4 @@ pinned: true
 short_description: Ai Image Upscaler
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out live demo: https://lovnishverma-photo-upscalar.static.hf.space
