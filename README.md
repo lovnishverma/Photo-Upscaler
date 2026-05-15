@@ -14,8 +14,8 @@ An AI-powered image upscaling tool designed to enhance image resolution and qual
 
 ## 🚀 Live Demos
 
-* **Official Website:** [lovnishverma.in/Photo-Upscalar/](https://www.lovnishverma.in/Photo-Upscalar/)
-* **Hugging Face Space:** [lovnishverma-photo-upscalar.static.hf.space](https://lovnishverma-photo-upscalar.static.hf.space/index.html)
+* **Official Website:** [lovnishverma.in/Photo-Upscaler/](https://www.lovnishverma.in/Photo-Upscaler/)
+* **Hugging Face Space:** [lovnishverma-photo-Upscaler.static.hf.space](https://lovnishverma-photo-Upscaler.static.hf.space/index.html)
 
 ## ✨ Key Features
 
